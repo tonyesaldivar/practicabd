@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App_SQLite_Alumnos</string>
+    <string name="texviewtitulo">DIRECTORIO</string>
+    <string name="texview1">Matricula:</string>
+    <string name="texview2">Nombre:</string>
+    <string name="texview3">Teléfono:</string>
+    <string name="boton_a">Agregar</string>
+    <string name="boton_m">Modificar</string>
+    <string name="boton_c">Consultar</string>
+    <string name="boton_e">Eliminar</string>
+</resources>
